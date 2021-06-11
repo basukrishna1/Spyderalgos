@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623098885 source:c:\users\lenovo\desktop\c++\spyder binary\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
